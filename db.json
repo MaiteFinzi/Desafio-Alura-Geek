@@ -1,0 +1,347 @@
+{
+  "Produtos": [
+    {
+      "id": "0",
+      "nome": "Caneca Stormtrooper",
+      "valor": "90,00",
+      "imagem": "./assets/stormtrooper.png",
+      "status": false,
+      "categoria": "caneca"
+    },
+    {
+      "id": "1",
+      "nome": "Game Boy Classic",
+      "valor": "260,00",
+      "imagem": "./assets/gameboy.png",
+      "status": false,
+      "categoria": "game"
+    },
+    {
+      "id": "3",
+      "nome": "Funko POP Curinga",
+      "valor": "160,00",
+      "imagem": "./assets/funkocuringa.png",
+      "status": false,
+      "categoria": "funko"
+    },
+    {
+      "id": "4",
+      "nome": "Funko POP Batman",
+      "valor": "270,00",
+      "imagem": "./assets/funkobatman.png",
+      "status": false,
+      "categoria": "funko"
+    },
+    {
+      "id": "6",
+      "nome": "Caneca Yoda",
+      "valor": "110,00",
+      "imagem": "./assets/canecayoda.png",
+      "status": false,
+      "categoria": "caneca"
+    },
+    {
+      "id": "7",
+      "nome": "Caneca Darth Vader",
+      "valor": "120,00",
+      "imagem": "./assets/canecadv.png",
+      "status": false,
+      "categoria": "caneca"
+    },
+    {
+      "id": "8",
+      "nome": "Caneca Batman",
+      "valor": "130,00",
+      "imagem": "./assets/canecabatman.png",
+      "status": false,
+      "categoria": "caneca"
+    },
+    {
+      "id": "9",
+      "nome": "Caneca Curinga",
+      "valor": "130,00",
+      "imagem": "./assets/canecacuringa.png",
+      "status": false,
+      "categoria": "caneca"
+    },
+    {
+      "id": "10",
+      "nome": "Nintendo Switch",
+      "valor": "2230,00",
+      "imagem": "./assets/nintendo.png",
+      "status": false,
+      "categoria": "game"
+    },
+    {
+      "id": "11",
+      "nome": "Funko POP Arlequina",
+      "valor": "190,00",
+      "imagem": "./assets/funkoarlekina.png",
+      "status": false,
+      "categoria": "funko"
+    },
+    {
+      "id": "12",
+      "nome": "Funko POP Robin",
+      "valor": "100,00",
+      "imagem": "./assets/funkorobin.png",
+      "status": false,
+      "categoria": "funko"
+    },
+    {
+      "id": "3353",
+      "nome": "Camiseta Super Mario",
+      "valor": "150,00",
+      "imagem": "https://down-br.img.susercontent.com/file/b2d59c3fb8df3286b9f318b96b3e1c9a",
+      "status": false,
+      "categoria": "camiseta"
+    },
+    {
+      "id": "7f64",
+      "nome": "Garrafa Garfield",
+      "valor": "120,00",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl2olfEb4CaJEseKswVSfjgbJ7gSDeHUWbgtc9jLnQXQ&s",
+      "status": false,
+      "categoria": "garrafa"
+    },
+    {
+      "id": "24d0",
+      "nome": "caneta pokemon",
+      "valor": "55,00",
+      "imagem": "https://omundodanuvem.com/cdn/shop/products/canetapokemonazul_1024x1024.png?v=1646958211",
+      "status": false,
+      "categoria": "caneta"
+    },
+    {
+      "nome": "Camiseta Pokemon",
+      "valor": "R$ 120,00",
+      "imagem": "https://www.merchandisingplaza.com.br/219834/2/Camisetas-Pokemon-Camiseta-Pokemon-Pikachu-and-Friend",
+      "id": "T4IVylz",
+      "status": false,
+      "categoria": "camiseta"
+    },
+    {
+      "nome": "Caneta Stars Wars",
+      "valor": "R$ 60,00",
+      "imagem": "https://cdn.awsli.com.br/600x450/1181/1181427/produto/44618196/a8aef0c627.jpg",
+      "id": "0_b6173",
+      "status": false,
+      "categoria": "caneta"
+    },
+    {
+      "nome": "garrafa minecraft",
+      "valor": "R$ 90,00",
+      "imagem": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMQEhUSEhEWFRUVGBIVExIVGBcXGhgaFRUWFhgTF",
+      "id": "Yl6pwCd",
+      "status": false,
+      "categoria": "garrafa"
+    },
+    {
+      "nome": "camiseta avatar",
+      "valor": "R$ 45,00",
+      "imagem": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxAPEhASEBMQFRAQFRAPFhAQEBUSERUYFRgWFhUXF",
+      "id": "1rduTwf",
+      "status": false,
+      "categoria": "camiseta"
+    },
+    {
+      "id": "059e",
+      "nome": "Caneca Avengers",
+      "valor": "120,00",
+      "imagem": "https://dcdn.mitiendanube.com/stores/001/242/707/products/caneca_181-e6b81180c01316b3181593355929108",
+      "status": false,
+      "categoria": "caneca"
+    },
+    {
+      "id": "b213",
+      "nome": "Caneca Stormtrooper",
+      "valor": "90,00",
+      "imagem": "./assets/stormtrooper.png",
+      "status": false,
+      "categoria": "caneca"
+    },
+    {
+      "id": "4b7f",
+      "nome": "Caneca Batman",
+      "valor": "120,00",
+      "imagem": "./assets/canecabatman.png",
+      "status": false,
+      "categoria": "caneca"
+    },
+    {
+      "id": "37a7",
+      "nome": "caneta pokemon",
+      "valor": "55,00",
+      "imagem": "\"https://omundodanuvem.com/cdn/shop/products/canetapokemonazul_1024x1024.png?v=1646958211\"    \"s",
+      "status": false,
+      "categoria": "caneta"
+    },
+    {
+      "id": "2033",
+      "nome": "Caneta Stars Wars",
+      "valor": "60,00",
+      "imagem": "https://cdn.awsli.com.br/600x450/1181/1181427/produto/44618196/a8aef0c627.jpg",
+      "status": false,
+      "categoria": "caneta"
+    },
+    {
+      "id": "ec44",
+      "nome": "Garrafa Garfield",
+      "valor": "120,00",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl2olfEb4CaJEseKswVSfjgbJ7gSDeHUWbgtc9jLnQXQ&s",
+      "status": false,
+      "categoria": "garrafa"
+    },
+    {
+      "id": "bf9c",
+      "nome": "Funko Pop Curinga",
+      "valor": "160,00",
+      "imagem": "./assets/funkocuringa.png",
+      "status": false,
+      "categoria": "funko"
+    },
+    {
+      "id": "6b7f",
+      "nome": "Camiseta Super Mário",
+      "valor": "150,00",
+      "imagem": "https://down-br.img.susercontent.com/file/b2d59c3fb8df3286b9f318b96b3e1c9a",
+      "status": false,
+      "categoria": "camiseta"
+    },
+    {
+      "id": "9117",
+      "nome": "Camiseta Pokémon",
+      "valor": "120,00",
+      "imagem": "https://www.merchandisingplaza.com.br/219834/2/Camisetas-Pokemon-Camiseta-Pokemon-Pikachu-and-Friend",
+      "status": false,
+      "categoria": "camiseta"
+    },
+    {
+      "id": "43a9",
+      "nome": "Funko Pop Batman",
+      "valor": "270,00",
+      "imagem": "./assets/funkobatman.png",
+      "status": false,
+      "categoria": "funko"
+    },
+    {
+      "id": "3833",
+      "nome": "Caneca Batman",
+      "valor": "120,00",
+      "imagem": "https://storage.geralgeek.com.br/images/venda/caneca-batman-5f53d802b6e56.jpg",
+      "status": false
+    },
+    {
+      "id": "83da",
+      "nome": "Caneca Stormtrooper",
+      "valor": "120,00",
+      "imagem": "./assets/stormtrooper.png",
+      "status": false
+    },
+    {
+      "id": "2935",
+      "nome": "caneca",
+      "valor": "120,00",
+      "imagem": "./assets/stormtrooper.png",
+      "status": false
+    },
+    {
+      "id": "70a1",
+      "nome": "caneca",
+      "valor": "90,00",
+      "imagem": "./assets/stormtrooper.png",
+      "status": false
+    },
+    {
+      "id": "53ec",
+      "nome": "Camiseta Pokemon",
+      "valor": "120,00",
+      "imagem": "https://www.merchandisingplaza.com.br/219834/2/Camisetas-Pokemon-Camiseta-Pokemon-Pikachu-and-Friend",
+      "status": false
+    },
+    {
+      "id": "5abf",
+      "nome": "Funko Pop Batman",
+      "valor": "270,00",
+      "imagem": "./assets/funkobatman.png",
+      "status": false
+    },
+    {
+      "id": "3c15",
+      "nome": "Chinelo Donkey Kong",
+      "valor": "120,00",
+      "imagem": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMTEhUTEhMWFRUWGBYaFxgYGBobGxohGxsbGhcZI",
+      "status": false
+    },
+    {
+      "id": "a4df",
+      "nome": "Chinelo Donkey Kong",
+      "valor": "120,00",
+      "imagem": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxISEhUSEhMVFhUXGB0YGBgWGRgdIRgYGhoaGB8XG",
+      "status": false
+    },
+    {
+      "id": "ef55",
+      "nome": "Pelúcia Didi Kong",
+      "valor": "180,00",
+      "imagem": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxITEhUTExMWFhUVGBUYFRUWGBceFxgXGhcWFxcXG",
+      "status": false
+    },
+    {
+      "id": "a2d2",
+      "nome": "Pelúcia Donkey Kong",
+      "valor": "180,00",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNT1o7ZEOPsgr60qFBnUVNCT4LNJs_JDNtmA&s",
+      "status": false
+    },
+    {
+      "id": "4c87",
+      "nome": "Pantufa Stitch",
+      "valor": "120,00",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxCvuFtZB9mDDYvPgUy4Gi2vKerpnImhU-QQ&s",
+      "status": false
+    },
+    {
+      "id": "253f",
+      "nome": "caneca",
+      "valor": "120,00",
+      "imagem": "./assets/stormtrooper.png",
+      "status": false
+    },
+    {
+      "id": "f2e8",
+      "nome": "Caneta Stars Wars",
+      "valor": "60,00",
+      "imagem": "https://cdn.awsli.com.br/600x450/1181/1181427/produto/44618196/a8aef0c627.jpg",
+      "status": false
+    },
+    {
+      "id": "37b2",
+      "nome": "Caneca Stormtrooper",
+      "valor": "120,00",
+      "imagem": "./assets/stormtrooper.png",
+      "status": false
+    },
+    {
+      "id": "8e49",
+      "nome": "Funko Pop Ioda",
+      "valor": "110,00",
+      "imagem": "./assets/canecayoda.png",
+      "status": false
+    },
+    {
+      "id": "6919",
+      "nome": "Caneca Stormtrooper",
+      "valor": "90,00",
+      "imagem": "./assets/stormtrooper.png",
+      "status": false
+    },
+    {
+      "id": "e22b",
+      "nome": "Caneca Stormtrooper",
+      "valor": "120,00",
+      "imagem": "./assets/stormtrooper.png",
+      "status": true
+    }
+  ]
+}
