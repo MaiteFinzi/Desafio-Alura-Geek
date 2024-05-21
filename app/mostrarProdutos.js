@@ -34,7 +34,7 @@ function constroiCard(nome, valor, imagem, id) {
         <p>${nome}</p>
         <div class="card__container__value">
           <p>R$ ${valor}</p>
-          <img class="lixeira" src="/assets/lixo.png" alt="Ícone lixo">
+          <img class="lixeira" src="assets/lixo.png" alt="Ícone lixo">
         </div>
       </div>
     </div>
